@@ -4,3 +4,7 @@ Bootstrap-Portfolio
 Bootstrap CSS & JS code: https://getbootstrap.com/
 
 Navbar: https://getbootstrap.com/docs/5.3/components/navbar/
+
+Grid: https://getbootstrap.com/docs/5.3/layout/grid/
+
+Card: https://getbootstrap.com/docs/5.3/components/card/
