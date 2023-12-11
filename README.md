@@ -12,3 +12,5 @@ Card: https://getbootstrap.com/docs/5.3/components/card/
 List: https://getbootstrap.com/docs/5.0/components/list-group/
 
 Footer: https://getbootstrap.com/docs/5.2/examples/footers/
+
+Carousel: https://getbootstrap.com/docs/5.3/components/carousel/
