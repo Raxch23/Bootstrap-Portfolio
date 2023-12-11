@@ -11,3 +11,11 @@
 #about-me .list-group-item {
   border: none;
 }
+
+.carousel .card img {
+  max-height: 60vh;
+}
+
+.row .card {
+  height: 100%;
+}
