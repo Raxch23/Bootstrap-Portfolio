@@ -7,3 +7,7 @@
   box-shadow: rgba(0,0,0,0.5) 0 6px 10px;
   z-index: 10;
 }
+
+#about-me .list-group-item {
+  border: none;
+}
