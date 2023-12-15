@@ -22,6 +22,11 @@
   position: relative;
 }
 
+.carousel .card .btn:hover {
+  box-shadow: rgba(0,0,0,0.5) 0 6px 10px;
+  transition: box-shadow 1s;
+}
+
 .row .card {
   height: 100%;
 }
