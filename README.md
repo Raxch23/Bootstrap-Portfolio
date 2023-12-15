@@ -9,7 +9,7 @@ In this assignment, we were task with building our portfolio layout using the Bo
 Bootstrap was used to recreate my first portfolio, the use of bootstrap made the webpage more interactive. A navigation bar; A hero section with a jumbotron featuring my picture and mane. A work section, displayed in grid which showcased my previous challenges and also a place holder for upcoming projects. Using bootsrap, I included a breif overview of each project. A skills section which listed all the skills I am hoping to gain with this bootcamp. An about me section with a contact me section displayed in the same row. Finally, a footer section with hyperlink with a hoover effect with individual buttons displaying a box shadow upon hower. The breakdown here should make it easy for visitors to navigate once on my page.
 
 # Installation
-Deployed Link: 
+Deployed Link: https://raxch23.github.io/Bootstrap-Portfolio/
 
 
 # References:
