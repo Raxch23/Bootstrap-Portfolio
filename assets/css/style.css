@@ -36,3 +36,30 @@
   box-shadow: rgba(0,0,0,0.5) 0 6px 10px;
   max-width: 20%;
 }
+
+body {
+  background-color: #f0f0f0;
+}
+
+.navbar {
+  background-color: transparent !important;
+}
+
+header {
+  background-color: #999;
+}
+
+
+
+#hero {
+  background-color: #FDF7E4;
+}
+
+.btn-primary {
+  background-color: #BBAB8C;
+  border: none;
+}
+
+#skills {
+  background-color: #DED0B6;
+}
