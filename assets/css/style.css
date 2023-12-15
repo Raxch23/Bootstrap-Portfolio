@@ -17,6 +17,11 @@
   object-fit: cover;
 }
 
+.carousel .card .btn {
+  z-index: 999;
+  position: relative;
+}
+
 .row .card {
   height: 100%;
 }
