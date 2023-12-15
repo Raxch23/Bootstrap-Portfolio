@@ -14,6 +14,7 @@
 
 .carousel .card img {
   max-height: 60vh;
+  object-fit: cover;
 }
 
 .row .card {
